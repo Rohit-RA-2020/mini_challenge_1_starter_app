@@ -31,3 +31,8 @@ Your Challenge is to make this screen more interesting with custom themeing. A c
 - Not required, but encouraged: theming, as above, for the third theme as well. 
 
 That's it! Good luck :)  
+
+App images
+<img src="images/light.png" alt="app screenshot" width="300"/>
+<img src="images/dark.png" alt="app screenshot" width="300"/>
+<img src="images/custom.png" alt="app screenshot" width="300"/>
