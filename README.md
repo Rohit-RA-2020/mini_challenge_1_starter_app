@@ -31,6 +31,7 @@ Your Challenge is to make this screen more interesting with custom themeing. A c
 - Not required, but encouraged: theming, as above, for the third theme as well. 
 
 That's it! Good luck :)  
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 App images
 ![alt text](https://github.com/Rohit-RA-2020/mini_challenge_1_starter_app/blob/MySubmission/Images/light.png=250x250)
