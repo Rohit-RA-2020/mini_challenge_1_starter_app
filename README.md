@@ -33,6 +33,6 @@ Your Challenge is to make this screen more interesting with custom themeing. A c
 That's it! Good luck :)  
 
 App images
-![alt text](https://github.com/Rohit-RA-2020/mini_challenge_1_starter_app/blob/MySubmission/Images/light.png)
+![alt text](https://github.com/Rohit-RA-2020/mini_challenge_1_starter_app/blob/MySubmission/Images/light.png=250x250)
 ![alt text](https://github.com/Rohit-RA-2020/mini_challenge_1_starter_app/blob/MySubmission/Images/dark.png)
 ![alt text](https://github.com/Rohit-RA-2020/mini_challenge_1_starter_app/blob/MySubmission/Images/Custom.png)
